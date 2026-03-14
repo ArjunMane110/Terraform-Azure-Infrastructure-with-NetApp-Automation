@@ -1,0 +1,30 @@
+# Terraform files
+
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform variable files
+
+terraform.tfvars
+*.auto.tfvars
+
+# Terraform plan files
+
+*.tfplan
+
+# CLI config
+
+.terraformrc
+terraform.rc
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/

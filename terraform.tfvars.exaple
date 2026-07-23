@@ -21,7 +21,7 @@ project     = "Infrastructure"
 
 vm_name        = "example-vm"
 admin_username = "azureadmin"
-admin_password = "ReplaceWithSecurePassword123!"
+admin_password = "use-your-own-password"
 
 # -----------------------------
 

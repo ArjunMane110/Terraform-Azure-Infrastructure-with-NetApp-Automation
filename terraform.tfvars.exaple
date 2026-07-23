@@ -67,7 +67,7 @@ netapp_subnet_name = "example-netapp-subnet"
 
 active_directory = {
 username            = "exampleaduser"
-password            = "ReplaceWithSecurePassword!"
+password            = "use-your-own-password"
 domain              = "example.com"
 dns_servers         = ["1.2.3.4"]
 smb_server_name     = "SMBSERVER"
